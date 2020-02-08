@@ -43,3 +43,5 @@ fields:
   type: boolean
   label: Featured Author
   description: Feature this author on the home page
+pages:
+- content/authors/martijn-van-der-wardt.md
