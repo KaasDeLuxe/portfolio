@@ -1,7 +1,6 @@
 +++
 avatar = "/images/martijn.jpeg"
 bio = "I’m committed to making digital products, services and experiences a little more enjoyable."
-draft = true
 featured = false
 title = "Martijn van der Wardt"
 [[social]]
